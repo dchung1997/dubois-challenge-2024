@@ -1,9 +1,10 @@
 Original,Modern Country,Notes
+Africa, Africa, Africa
 Gold Coast,Ghana,Broader region in the past.
 Bahia,Brazil,Remains a state in Brazil.
 Luanda,Angola,"Major city, capital of Angola."
 Rio de Janeiro,Brazil,Major city and surrounding state.
-Africa,,Continent
+Africa,Africa,Continent
 Havana,Cuba,Capital of Cuba.
 Barbados,Barbados,"Island nation, independent since 1966."
 Pernambuco,Brazil,Remains a state in Brazil.
@@ -12,7 +13,7 @@ Benguela,Angola,City and province in Angola.
 Cabinda,Angola,Enclave and province of Angola.
 Cuba,Cuba,Island nation.
 Kingston,Jamaica,Capital of Jamaica.
-Americas,,"Continent(s) (North, Central, and South America)"
+Americas,Americas,"Continent(s) (North, Central, and South America)"
 Bonny,Nigeria,"City in Rivers State, Nigeria. Historically important port."
 West Central Africa and St. Helena,Multiple,Broad region. St. Helena is a British Overseas Territory.
 Cap Francais,Haiti,"Former name of Cap-Haïtien, a city in Haiti."
@@ -149,7 +150,7 @@ Gold Coast + Bight of Benin + Bight of Biafra,Multiple,"Region encompassing coas
 Zion Hill,Could refer to various locations,"Without more context, it is difficult to determine a precise modern equivalent. Zion Hill could be a place name in several different countries."
 Margarita,Venezuela,Island off the coast of Venezuela
 Southeast Africa and Indian Ocean islands,Multiple,"Refers to a broad region with several island nations (Madagascar, Mauritius, Seychelles, Comoros, etc.)"
-Popo,Likely Benin or Togo,"Could refer to Grand Popo in Benin or locations in Togo, depending on the historical context"
+Popo,Benin,"Could refer to Grand Popo in Benin or locations in Togo, depending on the historical context"
 Taipu,Brazil,"Likely refers to a coastal location in Brazil, but more context is needed to pinpoint the specific place"
 Gold Coast east of Kormantine,Ghana,Region of the Gold Coast (modern-day Ghana) specifically located to the east of the historical settlement of Kormantine
 Rhode Island,United States,State in the United States
@@ -178,7 +179,7 @@ Santos,Brazil,"City in the state of São Paulo, Brazil"
 Kilwa,Tanzania,"Could refer to Kilwa Kisiwani, a historic town on an island off the coast of Tanzania"
 Boary,Uncertain,Potentially a misspelling or a very localized place name. More context would be needed.
 Bights,Multiple,"Likely refers to the Bight of Benin or the Bight of Biafra, coastal regions in West Africa"
-"Spanish Caribbean, unspecified",,
+"Spanish Caribbean, unspecified",Multiple,
 "Spanish Caribbean, unspecified",Multiple,"Broad region encompassing former Spanish colonies in the Caribbean (Cuba, Puerto Rico, Dominican Republic, portions of other islands historically)"
 Savanna la Mar,Jamaica,Town on the southwestern coast of Jamaica
 Patuxent,United States,"Likely refers to the Patuxent River in Maryland, USA"
@@ -329,8 +330,8 @@ Southeast Brazil,Brazil,"Refers to the general southeastern region of Brazil (st
 Quicombo,Angola,Town in Angola
 Princes Island and Elmina,São Tomé and Príncipe & Ghana,Princes Island is part of São Tomé and Príncipe. Elmina is a coastal town in Ghana.
 Portudal,Uncertain,Could be a localized or historical port. More context or research is needed for a definitive answer.
-place_of_purchase,,This likely refers to the location where goods or enslaved people were purchased within the context of historical trade routes.
-port_arrival,,This likely refers to the place where a ship arrived in the context of historical trade routes.
+place_of_purchase,n/a,This likely refers to the location where goods or enslaved people were purchased within the context of historical trade routes.
+port_arrival,n/a,This likely refers to the place where a ship arrived in the context of historical trade routes.
 Petit Mesurado,Liberia,Likely refers to a region near the Mesurado River in Liberia.
 Penido,Uncertain,"Could be a small town, historical place name, or potentially related to a surname. More context is needed."
 Oere,Uncertain,Potentially a historical or localized place name. More research and context are needed to pinpoint it.
